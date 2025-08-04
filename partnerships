@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Introduction to Partnership Taxation | HTML5 Accessibility & SEO Basics</title>
+  <meta name="description" content="A beginner-friendly overview of partnership taxation using semantic HTML5 with accessibility and SEO best practices.">
+  <meta name="keywords" content="partnership taxation, tax basics, HTML5 accessibility, SEO, semantic web, auditing, finance student">
+</head>
+<body>
+
+  <header>
+    <h1>Introduction to Partnership Taxation</h1>
+    <p>Understanding the fundamentals of how partnerships are taxed, with accessibility and SEO-conscious structure.</p>
+  </header>
+
+  <nav aria-label="Primary Navigation">
+    <ul>
+      <li><a href="#what-is-partnership">What Is a Partnership?</a></li>
+      <li><a href="#tax-treatment">Tax Treatment</a></li>
+      <li><a href="#accessibility-seo">Accessibility &amp; SEO Notes</a></li>
+      <li><a href="#resources">Resources</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="what-is-partnership">
+      <h2>What Is a Partnership?</h2>
+      <p>A partnership is a business structure in which two or more individuals share ownership. For tax purposes, partnerships are generally <strong>pass-through entities</strong>, meaning income and losses pass through to the partners for individual reporting.</p>
+      
+  
+        
+      
+    </section>
+
+    <section id="tax-treatment">
+      <h2>Tax Treatment of Partnerships</h2>
+      <article>
+        <h3>Income Allocation</h3>
+        <p>Partners are taxed on their share of the partnership's income, regardless of whether profits are distributed. The allocation is typically defined in the partnership agreement.</p>
+      </article>
+      <article>
+        <h3>Deductions and Losses</h3>
+        <p>Losses can offset other income on the partner’s individual return, subject to basis and at-risk limitations. Proper tracking of each partner’s capital account is essential.</p>
+      </article>
+      <article>
+        <h3>Filing Requirements</h3>
+        <p>The partnership itself files an informational return (e.g., IRS Form 1065 in the U.S.), and provides each partner with a schedule showing their share (e.g., Schedule K-1).</p>
+      </article>
+    </section>
+
+    <section id="accessibility-seo">
+      <h2>Accessibility &amp; SEO Notes</h2>
+      <p>This page was constructed using semantic HTML5 landmarks to aid both screen readers and search engines. Headings are in logical order (<code>&lt;h1&gt;</code> to <code>&lt;h3&gt;</code>), images include descriptive <code>alt</code> text, and navigation uses an <code>aria-label</code> for clarity. Content is written to be human-readable while supplying structured signals (title, meta description, keywords) for discoverability.</p>
+    </section>
+
+    <section id="resources">
+      <h2>Resources</h2>
+      <ul>
+        <li><a href="#what-is-partnership">Partnership Basics</a></li>
+        <li><a href="#tax-treatment">Tax Treatment Details</a></li>
+        <li><a href="#accessibility-seo">Web Best Practices</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <hopem
+    <p>&copy; 2025 Partnership Taxation Primer | Prepared by a Commerce Student. Contact: <a href="majalehope@gmail.com">majalehope@gmail.com</a></p>
+  </hope>
+
+</body>
+</html>
